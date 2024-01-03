@@ -1,2 +1,0 @@
-# cssdaOM
-CSS da OM
